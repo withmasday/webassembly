@@ -14,3 +14,7 @@ The WebAssembly Binary Toolkit [Github.com/WebAssembly/wabt](https://github.com/
 - wast2json: convert a file in the wasm spec test format to a JSON file and associated wasm binary files
 - wasm-opcodecnt: count opcode usage for instructions
 - spectest-interp: read a Spectest JSON file, and run its tests in the interpreter
+
+### Other Tools
+- [Javascript Deobfuscator by jsnice](http://jsnice.org/)
+- [Javascript Deobfuscator by decode.fr](https://www.dcode.fr/javascript-unobfuscator)
